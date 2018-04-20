@@ -1,1 +1,5 @@
-bouton acceuil -> pop up choix retour ou non
+bouton accueil -> pop up choix retour ou non
+
+j'ai finit la page d'accueil : avec le choix du nombre de coup max dessus plus une validation que le nombre rentrée est entre 1 et 100
+la page s'adapte aussi maintenant si on la rétrecit 
+le bouton play renvoie à la page mastermind.php
