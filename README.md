@@ -1,2 +1,8 @@
 # Projet-Web
 ![Image](https://github.com/AnEdge/Projet-Web/blob/master/Mastermind_main.png)
+
+Ce projet est réalisé dans le cadre de la formation de prépa intégrée de Polytech'Nice Sophia.
+Le but est de programmer une Mastemind.
+
+
+![Image]https://github.com/AnEdge/Projet-Web/blob/master/THEGANG.png)
