@@ -5,4 +5,4 @@ Ce projet est réalisé dans le cadre de la formation de prépa intégrée de Po
 Le but est de programmer une Mastemind.
 
 
-![Image]https://github.com/AnEdge/Projet-Web/blob/master/THEGANG.png)
+![Image](https://github.com/AnEdge/Projet-Web/blob/master/THEGANG.png)
