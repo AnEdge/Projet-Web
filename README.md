@@ -9,7 +9,7 @@ Il sera possible de choisir le nombre de coup maximal.
 
 <p align="center">
 
-  [Image](https://github.com/AnEdge/Projet-Web/blob/master/THEGANG.png)   Vincent Coppé 
+  ![Image](https://github.com/AnEdge/Projet-Web/blob/master/THEGANG.png)   Vincent Coppé 
 Jauffret Lucas
 
-</p>!
+</p>
