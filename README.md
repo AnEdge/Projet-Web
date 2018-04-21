@@ -7,5 +7,9 @@ Les combinaisons seront composées de 4 couleurs différentes.
 Il sera possible de choisir le nombre de coup maximal.
 
 
-![Image](https://github.com/AnEdge/Projet-Web/blob/master/THEGANG.png)   Vincent Coppé 
+<p align="center">
+![alt]()
+  [Image](https://github.com/AnEdge/Projet-Web/blob/master/THEGANG.png)   Vincent Coppé 
 Jauffret Lucas
+
+</p>!
