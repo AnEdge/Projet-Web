@@ -8,7 +8,7 @@ Il sera possible de choisir le nombre de coup maximal.
 
 
 <p align="center">
-![alt]()
+
   [Image](https://github.com/AnEdge/Projet-Web/blob/master/THEGANG.png)   Vincent Coppé 
 Jauffret Lucas
 
